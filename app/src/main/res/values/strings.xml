@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BMI Master</string>
+    <string name="hint_wt">Enter your weight in Kg</string>
+    <string name="hint_htF">Enter your height in Feet</string>
+    <string name="hint_hfI">Enter your height in Inch</string>
+</resources>
